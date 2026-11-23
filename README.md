@@ -2,9 +2,9 @@
 
 |                              | URL                                        | 
 |:----------------------------:|:-------------------------------------------| 
-| Source code                  | https://github.com/xpn-arcos/xpn           | 
+| Web                          | https://arcos-uc3m.github.io/SCIOT/        | 
 
 <p align="center">
-    <img src="logo/logo-xpn.svg" alt="Logo for Expand" width="300">
+	<img src="image/sciot-logo.png" alt="Logo of SCIOT" width="300">
 </p>
 
